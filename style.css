@@ -15,6 +15,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  margin: 0;
 }
 .visit {
   background: #1d3557;
@@ -34,4 +35,80 @@ body {
 }
 a {
   color: white;
+}
+.bg-section {
+  margin: 0;
+  background-color: #b6dfff;
+  height: 550px;
+}
+
+h1 {
+  padding: 15px;
+  margin: 0px;
+  text-align: center;
+  color: #1d3557;
+  font-size: 22px;
+}
+.container {
+  margin: 20px 0px;
+  height: 500px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.activities {
+  text-align: center;
+  height: 100%;
+  width: 33%;
+}
+img {
+  height: 200px;
+  border-radius: 50%;
+}
+footer {
+  background-color: #1d3557;
+  display: flex;
+  justify-content: center;
+  border-radius: 0 0 15px 15px;
+  height: 400px;
+}
+.card {
+  color: #222;
+  background-color: #457b9d;
+  border-bottom: 5px solid white;
+  border-radius: 5px;
+  margin: 20px;
+  height: 300px;
+  width: 500px;
+  display: flex;
+  flex-direction: row;
+}
+.para-text {
+  padding: 0 100px;
+}
+.image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 50%;
+}
+.guid {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+}
+.guid > img {
+  border-radius: 50%;
+}
+.guid-title,
+.name {
+  font-weight: bold;
+  font-size: 20px;
+}
+.para-guid {
+  padding: 10px;
 }
