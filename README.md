@@ -1,4 +1,5 @@
-The Frontend Developer Career Path
+# The Frontend Developer Career Path
 
-Solo Project Module 2 Scrimba Bootcamp 
+# Module 2 Scrimba Frontend Developer Career Path. Web Dev Basics
+
 - Build Hometown Homepage with HTML & CSS
